@@ -1,7 +1,8 @@
-Apple.add a new line.
+Apple.
+add a new line.
 The third line.
-
-
 Conflict2 created
 Conflict created
 
+
+This line added from LivCom
