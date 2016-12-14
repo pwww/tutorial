@@ -1,4 +1,7 @@
 Apple.add a new line.
 The third line.
 
+
 Conflict2 created
+Conflict created
+
